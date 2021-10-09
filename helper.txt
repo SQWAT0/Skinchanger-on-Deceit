@@ -1,0 +1,23 @@
+
+голова,очки,одежда,часы,пистол,нож,winpose,losepose,graffiti
+   28,1034,2136,3109,4150,5141,6149,72720,8242,//alex 
+16498,17413,18453,3105,4124,5170,6149,72720,8242,//chang
+32796,33803,34874,3098,4129,5139,6149,72720,8242,//lisa
+49180,50181,51296,3124,4118,5144,6149,72720,8242,//rachel
+65564,66579,67598,3116,4116,5153,6149,72720,8242,//hans
+81948,82967,83982,3102,4116,5177,6149,72720,8242//nina
+
+--skin Patterns:
+[ALEX]: Head xxx   , Mask xxxx  ,(Maybe 1xxx)  body xxxx (Maybe 2xxx)  
+[CHANG]:Head 16xxxx, Mask 17xxxx,   body 18xxxx
+[LISA]: Head 32xxxx, Mask 33xxxx,  body 34xxxx
+[RACHEL]Head 49xxxx, Mask 50xxxx,  body 51xxxx
+[HANS]: Head 65xxxx, Mask 66xxxx, body 67xxxx
+[NINA]: Head 81xxxx, Mask 82xxxx, body 839xxx or 84xxxx
+-----------------
+Wristband (часы) 3073-3124
+pistols 4097-4162
+knifes 5121-5178
+winpose default 6145 
+losepose default 7183
+graffiti 8193-8260
